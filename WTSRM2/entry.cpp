@@ -6,7 +6,5 @@ int entry(const PPEB peb)
 {
 	wtsrm2_init(peb);
 
-	MessageBoxA(NULL, NULL, NULL, MB_OK);
-
 	ExitProcess(0);
 }
