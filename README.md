@@ -1,5 +1,5 @@
 ## WTSRM2 
-This is a continuation to my original project [WTSRM](https://github.com/rad9800/WTSRM) and the corresponding talk.](https://www.youtube.com/watch?v=TfG9lBYCOq8)
+This is a continuation to my original project [WTSRM](https://github.com/rad9800/WTSRM) and the corresponding [talk.](https://www.youtube.com/watch?v=TfG9lBYCOq8)
 
 This project was re-written in order to utilize C++17 in order to create a template that allows us to change the required functionality at compile time with ease! This is implemented as a header only file such that you can easily add it to your own projects.
 
